@@ -22,4 +22,6 @@ Technologies is used to build this application!
 
 - **Amazon EC2** - The application backend is hosted on Amazon EC2
 - **ElasticSearch** - fast, text-based search engine to retrieve users from our database
-- **AWS S3** - Used to store user resumes
+- **AWS S3** - Used to store user resumes in encrypted format
+
+Creative Commons Attribution-NonCommercial 4.0 International License (LICENSE)
